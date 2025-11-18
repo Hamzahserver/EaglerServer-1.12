@@ -283,7 +283,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2025-11-14 16:07:15 +0000"
+      "baked_potato": "2025-11-14 16:07:15 +0000",
+      "apple": "2025-11-17 16:37:12 +0000"
     },
     "done": false
   },
@@ -555,6 +556,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-11-12 15:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-11-17 16:42:19 +0000"
     },
     "done": true
   },

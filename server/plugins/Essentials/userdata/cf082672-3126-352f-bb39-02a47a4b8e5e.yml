@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763135914403
-  login: 1763135179690
-money: '91.8900000000002521'
+  logout: 1763405809571
+  login: 1763406054364
+money: '7.4700000000002551'
 last-account-name: jose
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 101.49767529655124
-  y: 145.0
-  z: -80.68492740318644
-  yaw: -11.250732421875
-  pitch: -75.30001831054688
+  x: -18.562077907897894
+  y: 61.0
+  z: 687.6999999880791
+  yaw: 60.59392166137695
+  pitch: 35.550010681152344
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

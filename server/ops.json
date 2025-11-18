@@ -1,11 +1,5 @@
 [
   {
-    "uuid": "12467650-8492-37b5-9a43-6dcc97611f42",
-    "name": "hadeel",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "e7932b05-a139-3352-9e98-1d856b710e23",
     "name": "Adam898933333",
     "level": 4,
@@ -24,38 +18,20 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "b8e46504-274d-3847-ac77-ed94dbe8064b",
-    "name": "Wemmbu",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "01b93513-58e0-4966-b8f4-a9f079c85743",
     "name": "Parrot",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "b3a16c94-0898-417e-a6e5-ffc2ed411dfb",
-    "name": "ParrotX2",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "035afe7d-77c0-4da7-aacb-1aa276985307",
-    "name": "1234567890",
+    "uuid": "7c83b9f8-5655-37d1-bb1b-7b175feda7bc",
+    "name": "_omniilight",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
     "uuid": "1ac60049-6f05-3e8c-91b8-0ec93922d8db",
     "name": "ParrotX2",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "b716ba34-656a-3370-99c6-f2522d6b2779",
-    "name": "Nari",
     "level": 4,
     "bypassesPlayerLimit": false
   }

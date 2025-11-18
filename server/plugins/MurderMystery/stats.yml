@@ -1,6 +1,15 @@
 data-version: 1
 b8e46504-274d-3847-ac77-ed94dbe8064b:
   playername: Wemmbu
+  next_level_exp: 354
+  contribution_detective: 238
+  level: 1
+  deaths: 3
+  contribution_murderer: 6
+  games_played: 5
+  exp: 50
+  kills: 2
+  wins: 2
 1ac60049-6f05-3e8c-91b8-0ec93922d8db:
   playername: ParrotX2
 48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc:
@@ -61,5 +70,49 @@ b9f8eb16-3066-3bd2-a0d9-4f6f83cf5275:
   playername: hola_o_0
 155f3f57-a945-3584-815b-8098efb04320:
   playername: Mapicc_
+  next_level_exp: 354
+  contribution_detective: 547
+  level: 1
+  contribution_murderer: 1
+  games_played: 5
+  kills: 6
+  exp: 50
+  wins: 4
+  highest_score: 115
+  deaths: 1
 a09d9599-c777-3d52-b647-797cdc1dc256:
   playername: Hamzah898933_
+250c44a2-9b36-3434-8bbd-bda0392ea84c:
+  playername: ParrotX21
+40eacbf1-3677-3253-af37-3e5bdfb327e7:
+  playername: omni_
+7c83b9f8-5655-37d1-bb1b-7b175feda7bc:
+  playername: _omniilight
+45b39d38-a627-3803-8516-f28872ac0150:
+  playername: FineMuichiro_27_
+4136aea5-ee37-34c9-934d-698807690984:
+  playername: cris00
+fcbbc126-014c-36af-bdc5-348c0243743d:
+  playername: the_real_OG
+0590806c-6788-32a9-a884-97cc3b2c7f45:
+  playername: Joshisk373
+30ba7965-d6c5-3c46-a9dd-4ccf86cf7d7e:
+  playername: hdolf_aitler
+c4b4ed44-a6da-394c-a956-e0d930a0592e:
+  playername: Joshisk372
+97b97a69-5a98-370c-8f78-f3f1366ff711:
+  playername: ManePear_
+941c22ea-f55e-3546-909b-a3991e233c59:
+  playername: IDK_WSP
+de71792d-7c21-3440-9b44-57d151f768b4:
+  playername: hola_o_0s
+1972da87-7e56-3422-952e-890046f5fb9c:
+  playername: serogacool
+1244ba2c-088a-34e3-8c8f-b58d3a98ce86:
+  playername: manepear___
+  next_level_exp: 354
+  contribution_detective: 2
+  level: 1
+  deaths: 4
+  games_played: 4
+  exp: 40

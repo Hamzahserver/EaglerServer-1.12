@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1763140769207
-  login: 1763140479017
-money: '408.799999999999957'
+  logout: 1763403897476
+  login: 1763403684665
+money: '619.699999999999964'
 last-account-name: Frankie300s
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 217.29374398210618
-  y: 208.0
-  z: 114.11397342646382
-  yaw: 99.59847259521484
-  pitch: 27.44999122619629
+  x: -453.16617507856034
+  y: 15.0
+  z: 2156.3879240692945
+  yaw: 104.3963623046875
+  pitch: 9.750154495239258
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

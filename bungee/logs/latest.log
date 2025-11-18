@@ -1,34 +1,65 @@
-[20:26:25] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-965db127-b454)...
-[20:26:25] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
-[20:26:26] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
-[20:26:26] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
-[20:26:26] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
-[20:26:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:a33f2d1a:b452
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[20:26:27] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[20:26:27] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.5 by lax1dude, ayunami2000
-[20:26:27] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
-[20:26:27] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
-[20:26:27] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
-[20:26:27] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Loading vanilla profile: lax1dude
-[20:26:28] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: Loaded vanilla profile: lax1dude
-[20:26:28] [EaglercraftXVelocity - Task Executor #0/ERROR] [eaglerxvelocity]: Online mode is set to false! Authentication system has been disabled
-[20:26:28] [Netty epoll Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
-[20:26:28] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[20:26:28] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
-[20:26:28] [Netty epoll Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25577
-[20:26:28] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Loaded certificate: /workspaces/EaglerServer-1.12/bungee/plugins/eaglerxvelocity/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
-[20:26:28] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (3.55s)!
+[00:01:22] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:56668]: Connected via websocket
+[00:01:22] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:56668]: Origin header is null
+[00:01:22] [Netty epoll Worker #1/INFO] [eaglerxvelocity]: [connected player] Manepear_ (/[0:0:0:0:0:0:0:1]:56668) has connected
+[00:01:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear_ -> lobby has connected
+[00:01:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Manepear_ -> lobby has disconnected
+[00:01:22] [Netty epoll Worker #1/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Manepear_ (/[0:0:0:0:0:0:0:1]:56668): disconnected while connecting to lobby: [LoginSecurity] This account is registered under the name ManePear_, please log in as such.
+[00:01:22] [Netty epoll Worker #1/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] Manepear_ (/[0:0:0:0:0:0:0:1]:56668) has disconnected: Unable to connect to lobby: [LoginSecurity] This account is registered under the name ManePear_, please log in as such.
+[00:01:53] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:46310]: Connected via websocket
+[00:01:53] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:46310]: Origin header is null
+[00:01:53] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] manepear (/[0:0:0:0:0:0:0:1]:46310) has connected
+[00:01:53] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear -> lobby has connected
+[00:01:53] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear -> lobby has disconnected
+[00:01:53] [Netty epoll Worker #0/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear (/[0:0:0:0:0:0:0:1]:46310): disconnected while connecting to lobby: [LoginSecurity] This account is registered under the name Manepear, please log in as such.
+[00:01:53] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear (/[0:0:0:0:0:0:0:1]:46310) has disconnected: Unable to connect to lobby: [LoginSecurity] This account is registered under the name Manepear, please log in as such.
+[00:02:04] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:35866]: Connected via websocket
+[00:02:04] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:35866]: Origin header is null
+[00:02:04] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:35866) has connected
+[00:02:04] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear___ -> lobby has connected
+[00:03:19] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:35866): kicked from server lobby: §c§lAdvancedBan §8§l» §7You got kicked
+§7
+§cReason §8» §7WRONG ACCOUNT
+§7
+[00:03:19] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear___ -> lobby has disconnected
+[00:03:19] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:35866) has disconnected: You were kicked from lobby: §c§lAdvancedBan §8§l» §7You got kicked
+§7
+§cReason §8» §7WRONG ACCOUNT
+§7
+[00:03:30] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:55574]: Connected via websocket
+[00:03:30] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:55574]: Origin header is null
+[00:03:30] [Netty epoll Worker #0/INFO] [eaglerxvelocity]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:55574) has connected
+[00:03:30] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear___ -> lobby has connected
+[00:17:07] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Mapicc_ (/[0:0:0:0:0:0:0:1]:41646) has disconnected
+[00:17:07] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Mapicc_ -> lobby has disconnected
+[00:22:34] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:55574) has disconnected
+[00:22:34] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear___ -> lobby has disconnected
+[00:22:36] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:39294]: Connected via websocket
+[00:22:36] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:39294]: Origin header is null
+[00:22:36] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:39294) has connected
+[00:22:36] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear___ -> lobby has connected
+[00:28:11] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] Wemmbu (/[0:0:0:0:0:0:0:1]:49626) has disconnected
+[00:28:11] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] Wemmbu -> lobby has disconnected
+[00:28:39] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:39294): kicked from server lobby: Server closed nigas:/ for some good reason?:/
+[00:28:39] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] manepear___ -> lobby has disconnected
+[00:28:39] [Netty epoll Worker #2/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:39294) has disconnected: You were kicked from lobby: Server closed nigas:/ for some good reason?:/
+[00:28:58] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:40292]: Connected via websocket
+[00:28:58] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:40292]: Origin header is null
+[00:28:58] [Netty epoll Worker #3/INFO] [eaglerxvelocity]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:40292) has connected
+[00:28:58] [Netty epoll Worker #3/ERROR] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:40292): unable to connect to server lobby
+io.netty.channel.AbstractChannel$AnnotatedConnectException: finishConnect(..) failed: Connection refused: localhost/127.0.0.1:25565
+Caused by: java.net.ConnectException: finishConnect(..) failed: Connection refused
+	at io.netty.channel.unix.Errors.newConnectException0(Errors.java:166) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.unix.Errors.handleConnectErrno(Errors.java:131) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.unix.Socket.finishConnect(Socket.java:359) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.doFinishConnect(AbstractEpollChannel.java:715) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.finishConnect(AbstractEpollChannel.java:692) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.epoll.AbstractEpollChannel$AbstractEpollUnsafe.epollOutReady(AbstractEpollChannel.java:567) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:491) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:399) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[bungee.jar:3.4.0-SNAPSHOT (git-965db127-b454)]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:28:58] [Netty epoll Worker #3/INFO] [com.velocitypowered.proxy.connection.client.ConnectedPlayer]: [connected player] manepear___ (/[0:0:0:0:0:0:0:1]:40292) has disconnected: Unable to connect you to lobby. Please try again later.
+[00:29:04] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:58636]: Connected via websocket
+[00:29:04] [Netty epoll Worker #2/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:58636]: Origin header is null

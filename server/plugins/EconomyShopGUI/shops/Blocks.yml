@@ -3,7 +3,7 @@ pages:
     items:
       '1':
         material: BOOKSHELF
-        buy: 119.12
+        buy: 750.12
         sell: 29.78
       '2':
         material: HAY_BLOCK
@@ -35,7 +35,7 @@ pages:
         sell: 0.18
       '9':
         material: TNT
-        buy: 106.58
+        buy: 1000.58
         sell: 26.65
       '10':
         material: GLOWSTONE

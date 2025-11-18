@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1762452308301
-  login: 1762452180248
+  logout: 1763405927189
+  login: 1763405281268
 money: '0'
 last-account-name: serogacool
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 590.6986178499875
-  y: 49.0
-  z: 44.636379828350385
-  yaw: 193.35772705078125
-  pitch: 19.49994468688965
+  x: 591.6999999880791
+  y: 48.875
+  z: 46.30000001192093
+  yaw: 45.907745361328125
+  pitch: 62.24995040893555
+lastlocation:
+  world: 24b57c21-75f5-48ad-842d-96eb09ea949e
+  world-name: um
+  x: 593.4432175206022
+  y: 43.0
+  z: 18.681733663466197
+  yaw: 207.90777587890625
+  pitch: 24.599994659423828

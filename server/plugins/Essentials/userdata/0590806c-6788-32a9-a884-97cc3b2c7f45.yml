@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1762788439651
-  login: 1762787383904
+  logout: 1763392774773
+  login: 1763392655281
 money: '0'
 last-account-name: Joshisk373
 lastlocation:
@@ -34,5 +34,5 @@ logoutlocation:
   x: -42.20136267932669
   y: 69.0
   z: -233.40785851770707
-  yaw: 311.9996337890625
-  pitch: 10.349992752075195
+  yaw: 60.299652099609375
+  pitch: -39.1500129699707

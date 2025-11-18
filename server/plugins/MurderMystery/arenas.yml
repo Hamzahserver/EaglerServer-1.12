@@ -53,7 +53,7 @@ instances:
     playerpermurderer: 1
     spawngoldtime: 5
     goldvisuals: false
-    minimumplayers: 4
+    minimumplayers: 2
     maximumplayers: 30
     lobbylocation: portal,624.0,18.0,-1116.0,0.0,0.0
     spectatorlocation: portal,610.2,19.64,-1124.01,-142.8,13.65

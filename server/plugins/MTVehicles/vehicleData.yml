@@ -117,6 +117,37 @@ vehicle:
     rotateSpeed: 8
     maxSpeedBackwards: 0.35
     owner: c6116296-ed49-33e3-8eef-eafd6a53cb28
+  LF-TZ-ZT:
+    name: SUV Blue
+    vehicleType: CAR
+    skinDamage: 1132
+    skinItem: DIAMOND_HOE
+    isOpen: false
+    isGlow: false
+    benzineEnabled: true
+    benzine: 86.08999999999288
+    benzineVerbruik: 0.01
+    hornEnabled: true
+    health: 300.0
+    kofferbak: true
+    kofferbakRows: 1
+    acceleratieSpeed: 0.009
+    maxSpeed: 0.6
+    brakingSpeed: 0.03
+    aftrekkenSpeed: 0.005
+    rotateSpeed: 8
+    maxSpeedBackwards: 0.35
+    owner: 1ac60049-6f05-3e8c-91b8-0ec93922d8db
+    kofferbakData:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
   YE-SL-RF:
     name: Apache Orange
     vehicleType: HELICOPTER

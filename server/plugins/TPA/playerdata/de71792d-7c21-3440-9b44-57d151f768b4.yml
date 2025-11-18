@@ -1,0 +1,17 @@
+player_name: hola_o_0s
+language: en_US
+setlang: false
+last_location:
+  world: um
+  x: -24.44252329463204
+  y: 63.200000047683716
+  z: 688.7037991025484
+  pitch: 31.70804
+  yaw: -265.9732
+logout_location:
+  world: um
+  x: -19.101233359736632
+  y: 64.0
+  z: 686.6253497721889
+  pitch: 60.22856
+  yaw: -347.011
