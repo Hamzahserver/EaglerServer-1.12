@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764078726834
-  login: 1764078642681
+  logout: 1764593238510
+  login: 1764593188245
 money: '10357.64'
 last-account-name: omni
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 709.3000000119209
-  y: 63.0
-  z: 9973.907561144577
-  yaw: 255.4463348388672
-  pitch: 20.400014877319336
+  x: 694.7088103989857
+  y: 66.0
+  z: 9897.5683789899
+  yaw: 278.24639892578125
+  pitch: 43.65000915527344
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

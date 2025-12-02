@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1764093976370
-  login: 1764092909199
-money: '78.70000000000005956'
+  logout: 1764616265080
+  login: 1764615006481
+money: '1412.20000000000005956'
 last-account-name: cris00
 logoutlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um
-  x: 256.4247767746767
-  y: 69.0
-  z: 50.18653207944608
-  yaw: -99.7564697265625
-  pitch: -8.999896049499512
+  x: 474.99647052918533
+  y: 76.0
+  z: -163.08280655827127
+  yaw: 82.80034637451172
+  pitch: 18.1500186920166
 lastlocation:
   world: 24b57c21-75f5-48ad-842d-96eb09ea949e
   world-name: um

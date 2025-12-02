@@ -243,7 +243,8 @@
     "criteria": {
       "cooked_porkchop": "2025-11-26 16:20:33 +0000",
       "apple": "2025-11-24 15:23:01 +0000",
-      "golden_apple": "2025-11-24 15:24:26 +0000"
+      "golden_apple": "2025-11-24 15:24:26 +0000",
+      "carrot": "2025-12-01 18:39:32 +0000"
     },
     "done": false
   },
@@ -431,12 +432,15 @@
     "criteria": {
       "forest": "2025-11-21 17:09:50 +0000",
       "mesa_rock": "2025-11-26 16:56:30 +0000",
+      "extreme_hills_with_trees": "2025-12-01 13:40:08 +0000",
       "savanna": "2025-11-21 16:31:44 +0000",
       "plains": "2025-11-21 16:29:39 +0000",
       "mesa_clear_rock": "2025-11-26 16:37:16 +0000",
       "savanna_rock": "2025-11-24 15:20:27 +0000",
       "birch_forest_hills": "2025-11-21 16:28:21 +0000",
-      "river": "2025-11-26 16:57:06 +0000"
+      "extreme_hills": "2025-12-01 13:38:22 +0000",
+      "river": "2025-11-26 16:57:06 +0000",
+      "desert": "2025-12-01 13:16:57 +0000"
     },
     "done": false
   },
@@ -590,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-12-01 13:39:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-11-25 12:34:44 +0000"
@@ -614,6 +624,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-12-01 13:24:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-11-25 12:37:43 +0000"
@@ -629,6 +645,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-11-25 12:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-12-01 13:24:26 +0000"
     },
     "done": true
   },

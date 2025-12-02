@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-12-01 23:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2025-11-26 17:07:13 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-11-17 17:30:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-12-01 23:17:16 +0000"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-11-17 23:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-11-30 20:45:28 +0000"
     },
     "done": true
   },
@@ -857,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-12-01 23:17:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-11-27 00:45:48 +0000"
@@ -945,6 +969,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-16 21:05:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-12-01 23:17:16 +0000"
     },
     "done": true
   },
@@ -1296,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-11-30 20:45:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-11-16 19:39:09 +0000"
@@ -1392,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-11-30 20:45:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-11-16 20:16:33 +0000"
@@ -1437,6 +1479,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-11-14 18:15:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-12-01 23:17:16 +0000"
     },
     "done": true
   },
@@ -1591,6 +1639,7 @@
       "mesa_clear_rock": "2025-11-21 14:14:37 +0000",
       "savanna_rock": "2025-11-16 20:12:07 +0000",
       "taiga": "2025-11-20 15:37:30 +0000",
+      "taiga_hills": "2025-12-02 00:12:41 +0000",
       "birch_forest_hills": "2025-11-11 19:27:46 +0000",
       "taiga_cold": "2025-11-20 15:34:26 +0000",
       "ocean": "2025-11-20 14:56:55 +0000",
@@ -1895,6 +1944,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-11-24 17:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-12-01 23:22:45 +0000"
     },
     "done": true
   },

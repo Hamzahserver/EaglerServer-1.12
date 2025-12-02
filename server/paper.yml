@@ -176,8 +176,8 @@ world-settings:
     skip-entity-ticking-in-chunks-scheduled-for-unload: true
     fire-physics-event-for-redstone: false
     spawner-nerfed-mobs-should-jump: false
-    allow-leashing-undead-horse: false
     baby-zombie-movement-speed: 0.5
+    allow-leashing-undead-horse: false
     mob-spawner-tick-rate: 1
     all-chunks-are-slime-chunks: false
     squid-spawn-height:

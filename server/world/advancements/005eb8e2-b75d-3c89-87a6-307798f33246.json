@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-11-29 23:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-11-27 00:17:01 +0000"
@@ -370,6 +376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-11-29 23:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-11-27 00:51:50 +0000"
@@ -612,6 +624,7 @@
       "skeleton": "2025-11-27 00:33:33 +0000",
       "zombie": "2025-11-26 18:15:52 +0000",
       "silverfish": "2025-11-27 00:08:46 +0000",
+      "spider": "2025-11-29 23:35:41 +0000",
       "creeper": "2025-11-27 00:51:24 +0000"
     },
     "done": false
@@ -934,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-11-29 23:35:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-11-27 01:13:56 +0000"
@@ -1027,6 +1046,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-11-26 18:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-11-29 23:35:50 +0000"
     },
     "done": true
   },

@@ -10,7 +10,7 @@ mace:
   fall_ignore: 3.0          # ignore small falls under this Y distance
   tnt_radius: 5.5           # visual blast radius for Wind Charge / TNT-like effect
   elytra_assist_radius: 7.0 # assist radius for hitting gliders
-  thorns_launch: 0.8        # upward push when thorns triggers
+  thorns_launch: 0.0        # upward push when thorns triggers
 effects:
   particles: true
   tnt_visual: true
